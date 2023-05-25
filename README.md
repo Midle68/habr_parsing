@@ -35,7 +35,7 @@
 
 ## Используемые библиотеки:
 
-`matplotlib`, `nltk`, `numpy`, `pandas`, `pymystem3`, `re`, `seaborn`, `selenium`, `time`, `selenium`, `time`
+`matplotlib`, `nltk`, `numpy`, `pandas`, `pymystem3`, `re`, `seaborn`, `selenium`, `time`
 
 ## Статус проекта
 
